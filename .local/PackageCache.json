@@ -10,15 +10,15 @@
         "C:\\Users\\VIJAY\\.nuget\\packages\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.ole.interop/16.7.30328.74\\lib/net45/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities/2.10.4\\lib/net461/UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities\\2.10.4"
@@ -29,10 +29,10 @@
         "Version": "1.10.4"
       },
       "Assemblies": [
-        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
@@ -48,8 +48,8 @@
         "C:\\Users\\VIJAY\\.nuget\\packages\\system.buffers/4.5.1\\lib/net461/System.Buffers.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities/1.10.4\\lib/net461/UiPath.Mail.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities\\1.10.4"
@@ -126,25 +126,100 @@
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.CV.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.CV.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.UIAutomation.Activities.Package.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.UIAutomationCore.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities/21.4.3\\lib/net461/UiPath.Wizards.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Core.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision/3.0.1\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3"
+    },
+    {
+      "Package": {
+        "Id": "AzureDevOps.Activities",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\azuredevops.activities/1.0.0\\lib/net461/Synergy.AzureDevOps.Activities.Design.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\azuredevops.activities/1.0.0\\lib/net461/Synergy.AzureDevOps.Activities.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\ben.demystifier/0.1.2\\lib/net45/Ben.Demystifier.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnet.webapi.client/5.2.3\\lib/net45/System.Net.Http.Formatting.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory/3.19.4\\lib/net45/Microsoft.IdentityModel.Clients.ActiveDirectory.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory/3.19.4\\lib/net45/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens/5.2.4\\lib/net451/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.logging/5.2.4\\lib/net451/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.tokens/5.2.4\\lib/net451/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common/15.112.1\\lib/net45/Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common.contracts/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.Build2.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.Core.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.Dashboards.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.Policy.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.SourceControl.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.Test.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.TestManagement.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.Wiki.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.Work.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client/16.144.1-preview\\lib/net45/Microsoft.VisualStudio.Services.TestResults.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.tpl.dataflow/4.5.24\\lib/portable-net45+win8+wpa81/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.client/16.153.0\\lib/net45/Microsoft.TeamFoundation.Common.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.client/16.153.0\\lib/net45/Microsoft.VisualStudio.Services.Common.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.client/16.153.0\\lib/net45/Microsoft.VisualStudio.Services.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.distributedtask.client/15.112.1-preview\\lib/net45/Microsoft.TeamFoundation.DistributedTask.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.interactiveclient/16.153.0\\lib/net45/Microsoft.VisualStudio.Services.Client.Interactive.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\system.collections.immutable/1.4.0\\lib/netstandard2.0/System.Collections.Immutable.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\system.identitymodel.tokens.jwt/5.2.4\\lib/net451/System.IdentityModel.Tokens.Jwt.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\system.reflection.metadata/1.5.0\\lib/netstandard2.0/System.Reflection.Metadata.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\azuredevops.activities\\1.0.0"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+    "AzureDevOps.Activities": {
+      "Id": "AzureDevOps.Activities",
+      "Version": "1.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.TeamFoundationServer.Client",
+          "Item2": "[16.144.1-preview, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.Services.Client",
+          "Item2": "[16.153.0, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.Services.DistributedTask.Client",
+          "Item2": "[15.112.1-preview, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.Services.InteractiveClient",
+          "Item2": "[16.153.0, )"
+        }
+      ]
+    },
+    "Ben.Demystifier": {
+      "Id": "Ben.Demystifier",
+      "Version": "0.1.2",
+      "Dependencies": [
+        {
+          "Item1": "System.Reflection.Metadata",
+          "Item2": "[1.5.0, )"
+        }
+      ]
+    },
     "ClosedXML": {
       "Id": "ClosedXML",
       "Version": "0.87.1",
@@ -267,6 +342,16 @@
     "Microsoft.AspNet.SignalR.Client": {
       "Id": "Microsoft.AspNet.SignalR.Client",
       "Version": "2.4.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[6.0.4, )"
+        }
+      ]
+    },
+    "Microsoft.AspNet.WebApi.Client": {
+      "Id": "Microsoft.AspNet.WebApi.Client",
+      "Version": "5.2.3",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
@@ -548,6 +633,44 @@
       "Version": "4.14.0",
       "Dependencies": []
     },
+    "Microsoft.IdentityModel.Clients.ActiveDirectory": {
+      "Id": "Microsoft.IdentityModel.Clients.ActiveDirectory",
+      "Version": "3.19.4",
+      "Dependencies": []
+    },
+    "Microsoft.IdentityModel.JsonWebTokens": {
+      "Id": "Microsoft.IdentityModel.JsonWebTokens",
+      "Version": "5.2.4",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.IdentityModel.Tokens",
+          "Item2": "[5.2.4, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.1, )"
+        }
+      ]
+    },
+    "Microsoft.IdentityModel.Logging": {
+      "Id": "Microsoft.IdentityModel.Logging",
+      "Version": "5.2.4",
+      "Dependencies": []
+    },
+    "Microsoft.IdentityModel.Tokens": {
+      "Id": "Microsoft.IdentityModel.Tokens",
+      "Version": "5.2.4",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.IdentityModel.Logging",
+          "Item2": "[5.2.4, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.1, )"
+        }
+      ]
+    },
     "Microsoft.Rest.ClientRuntime": {
       "Id": "Microsoft.Rest.ClientRuntime",
       "Version": "2.3.21",
@@ -558,10 +681,143 @@
         }
       ]
     },
+    "Microsoft.TeamFoundation.DistributedTask.Common": {
+      "Id": "Microsoft.TeamFoundation.DistributedTask.Common",
+      "Version": "15.112.1",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Tpl.Dataflow",
+          "Item2": "[4.5.24, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[8.0.3, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.Services.Client",
+          "Item2": "[15.112.1, 15.112.1]"
+        }
+      ]
+    },
+    "Microsoft.TeamFoundation.DistributedTask.Common.Contracts": {
+      "Id": "Microsoft.TeamFoundation.DistributedTask.Common.Contracts",
+      "Version": "16.144.1-preview",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.VisualStudio.Services.Client",
+          "Item2": "[16.144.1-preview, 16.144.1-preview]"
+        }
+      ]
+    },
+    "Microsoft.TeamFoundationServer.Client": {
+      "Id": "Microsoft.TeamFoundationServer.Client",
+      "Version": "16.144.1-preview",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.AspNet.WebApi.Client",
+          "Item2": "[5.2.3, )"
+        },
+        {
+          "Item1": "Microsoft.TeamFoundation.DistributedTask.Common.Contracts",
+          "Item2": "[16.144.1-preview, 16.144.1-preview]"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.Services.Client",
+          "Item2": "[16.144.1-preview, 16.144.1-preview]"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        }
+      ]
+    },
+    "Microsoft.Tpl.Dataflow": {
+      "Id": "Microsoft.Tpl.Dataflow",
+      "Version": "4.5.24",
+      "Dependencies": []
+    },
     "Microsoft.VisualStudio.OLE.Interop": {
       "Id": "Microsoft.VisualStudio.OLE.Interop",
       "Version": "16.7.30328.74",
       "Dependencies": []
+    },
+    "Microsoft.VisualStudio.Services.Client": {
+      "Id": "Microsoft.VisualStudio.Services.Client",
+      "Version": "16.153.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.AspNet.WebApi.Client",
+          "Item2": "[5.2.3, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.Tokens",
+          "Item2": "[5.2.4, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "System.IdentityModel.Tokens.Jwt",
+          "Item2": "[5.2.4, )"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.Services.DistributedTask.Client": {
+      "Id": "Microsoft.VisualStudio.Services.DistributedTask.Client",
+      "Version": "15.112.1-preview",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.AspNet.WebApi.Client",
+          "Item2": "[5.2.2, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[8.0.3, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.Services.Client",
+          "Item2": "[15.112.1, 15.112.1]"
+        },
+        {
+          "Item1": "Microsoft.TeamFoundation.DistributedTask.Common",
+          "Item2": "[15.112.1, 15.112.1]"
+        }
+      ]
+    },
+    "Microsoft.VisualStudio.Services.InteractiveClient": {
+      "Id": "Microsoft.VisualStudio.Services.InteractiveClient",
+      "Version": "16.153.0",
+      "Dependencies": [
+        {
+          "Item1": "Ben.Demystifier",
+          "Item2": "[0.1.2, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.Clients.ActiveDirectory",
+          "Item2": "[3.19.4, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.Logging",
+          "Item2": "[5.2.4, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.Tokens",
+          "Item2": "[5.2.4, )"
+        },
+        {
+          "Item1": "Microsoft.VisualStudio.Services.Client",
+          "Item2": "[16.153.0, 16.153.0]"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
+        },
+        {
+          "Item1": "System.IdentityModel.Tokens.Jwt",
+          "Item2": "[5.2.4, )"
+        }
+      ]
     },
     "MimeKit": {
       "Id": "MimeKit",
@@ -611,6 +867,11 @@
       "Version": "4.5.1",
       "Dependencies": []
     },
+    "System.Collections.Immutable": {
+      "Id": "System.Collections.Immutable",
+      "Version": "1.4.0",
+      "Dependencies": []
+    },
     "System.ComponentModel.Annotations": {
       "Id": "System.ComponentModel.Annotations",
       "Version": "4.7.0",
@@ -620,6 +881,24 @@
       "Id": "System.Data.DataSetExtensions",
       "Version": "4.5.0",
       "Dependencies": []
+    },
+    "System.IdentityModel.Tokens.Jwt": {
+      "Id": "System.IdentityModel.Tokens.Jwt",
+      "Version": "5.2.4",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.IdentityModel.JsonWebTokens",
+          "Item2": "[5.2.4, )"
+        },
+        {
+          "Item1": "Microsoft.IdentityModel.Tokens",
+          "Item2": "[5.2.4, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.1, )"
+        }
+      ]
     },
     "System.IO.Abstractions": {
       "Id": "System.IO.Abstractions",
@@ -671,6 +950,16 @@
       "Id": "System.Numerics.Vectors",
       "Version": "4.5.0",
       "Dependencies": []
+    },
+    "System.Reflection.Metadata": {
+      "Id": "System.Reflection.Metadata",
+      "Version": "1.5.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.4.0, )"
+        }
+      ]
     },
     "System.Runtime.CompilerServices.Unsafe": {
       "Id": "System.Runtime.CompilerServices.Unsafe",
@@ -973,6 +1262,27 @@
   "AllPackages": [
     {
       "Package": {
+        "Id": "AzureDevOps.Activities",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\azuredevops.activities\\1.0.0\\lib\\net461\\Synergy.AzureDevOps.Activities.Design.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\azuredevops.activities\\1.0.0\\lib\\net461\\Synergy.AzureDevOps.Activities.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\azuredevops.activities\\1.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Ben.Demystifier",
+        "Version": "0.1.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\ben.demystifier\\0.1.2\\lib\\net45\\Ben.Demystifier.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\ben.demystifier\\0.1.2"
+    },
+    {
+      "Package": {
         "Id": "ClosedXML",
         "Version": "0.87.1"
       },
@@ -1007,8 +1317,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll"
+        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis\\1.43.0"
     },
@@ -1018,8 +1328,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.auth\\1.43.0"
     },
@@ -1082,6 +1392,16 @@
         "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\lib\\net45\\Microsoft.AspNet.SignalR.Client.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.AspNet.WebApi.Client",
+        "Version": "5.2.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.3\\lib\\net45\\System.Net.Http.Formatting.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.3"
     },
     {
       "Package": {
@@ -1306,6 +1626,47 @@
     },
     {
       "Package": {
+        "Id": "Microsoft.IdentityModel.Clients.ActiveDirectory",
+        "Version": "3.19.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.19.4\\lib\\net45\\Microsoft.IdentityModel.Clients.ActiveDirectory.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.19.4\\lib\\net45\\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.19.4"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.IdentityModel.JsonWebTokens",
+        "Version": "5.2.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.2.4\\lib\\net451\\Microsoft.IdentityModel.JsonWebTokens.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.2.4"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.IdentityModel.Logging",
+        "Version": "5.2.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.logging\\5.2.4\\lib\\net451\\Microsoft.IdentityModel.Logging.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.logging\\5.2.4"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.IdentityModel.Tokens",
+        "Version": "5.2.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.2.4\\lib\\net451\\Microsoft.IdentityModel.Tokens.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.2.4"
+    },
+    {
+      "Package": {
         "Id": "Microsoft.Rest.ClientRuntime",
         "Version": "2.3.21"
       },
@@ -1316,6 +1677,58 @@
     },
     {
       "Package": {
+        "Id": "Microsoft.TeamFoundation.DistributedTask.Common",
+        "Version": "15.112.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common\\15.112.1\\lib\\net45\\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common\\15.112.1"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.TeamFoundation.DistributedTask.Common.Contracts",
+        "Version": "16.144.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common.contracts\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.DistributedTask.Common.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common.contracts\\16.144.1-preview"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.TeamFoundationServer.Client",
+        "Version": "16.144.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.Build2.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.Core.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.Dashboards.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.Policy.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.SourceControl.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.Test.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.TestManagement.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.Wiki.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.Work.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.WorkItemTracking.Process.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.VisualStudio.Services.TestManagement.TestPlanning.WebApi.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\lib\\net45\\Microsoft.VisualStudio.Services.TestResults.WebApi.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Tpl.Dataflow",
+        "Version": "4.5.24"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.tpl.dataflow\\4.5.24\\lib\\portable-net45+win8+wpa81\\System.Threading.Tasks.Dataflow.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.tpl.dataflow\\4.5.24"
+    },
+    {
+      "Package": {
         "Id": "Microsoft.VisualStudio.OLE.Interop",
         "Version": "16.7.30328.74"
       },
@@ -1323,6 +1736,38 @@
         "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib\\net45\\Microsoft.VisualStudio.OLE.Interop.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.VisualStudio.Services.Client",
+        "Version": "16.153.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.client\\16.153.0\\lib\\net45\\Microsoft.TeamFoundation.Common.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.client\\16.153.0\\lib\\net45\\Microsoft.VisualStudio.Services.Common.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.client\\16.153.0\\lib\\net45\\Microsoft.VisualStudio.Services.WebApi.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.client\\16.153.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.VisualStudio.Services.DistributedTask.Client",
+        "Version": "15.112.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.distributedtask.client\\15.112.1-preview\\lib\\net45\\Microsoft.TeamFoundation.DistributedTask.WebApi.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.distributedtask.client\\15.112.1-preview"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.VisualStudio.Services.InteractiveClient",
+        "Version": "16.153.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.interactiveclient\\16.153.0\\lib\\net45\\Microsoft.VisualStudio.Services.Client.Interactive.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.interactiveclient\\16.153.0"
     },
     {
       "Package": {
@@ -1350,10 +1795,10 @@
         "Version": "2.4.1"
       },
       "Assemblies": [
-        "C:\\Users\\VIJAY\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\VIJAY\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\npoi\\2.4.1"
     },
@@ -1389,6 +1834,16 @@
     },
     {
       "Package": {
+        "Id": "System.Collections.Immutable",
+        "Version": "1.4.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\system.collections.immutable\\1.4.0\\lib\\netstandard2.0\\System.Collections.Immutable.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\system.collections.immutable\\1.4.0"
+    },
+    {
+      "Package": {
         "Id": "System.ComponentModel.Annotations",
         "Version": "4.7.0"
       },
@@ -1406,6 +1861,16 @@
         "C:\\Users\\VIJAY\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\lib\\net45\\_._"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\system.data.datasetextensions\\4.5.0"
+    },
+    {
+      "Package": {
+        "Id": "System.IdentityModel.Tokens.Jwt",
+        "Version": "5.2.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.2.4\\lib\\net451\\System.IdentityModel.Tokens.Jwt.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.2.4"
     },
     {
       "Package": {
@@ -1456,6 +1921,16 @@
         "C:\\Users\\VIJAY\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\lib\\net46\\System.Numerics.Vectors.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\system.numerics.vectors\\4.5.0"
+    },
+    {
+      "Package": {
+        "Id": "System.Reflection.Metadata",
+        "Version": "1.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\VIJAY\\.nuget\\packages\\system.reflection.metadata\\1.5.0\\lib\\netstandard2.0\\System.Reflection.Metadata.dll"
+      ],
+      "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\system.reflection.metadata\\1.5.0"
     },
     {
       "Package": {
@@ -1544,8 +2019,8 @@
       },
       "Assemblies": [
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities\\2.10.4\\lib\\net461\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.excel.activities\\2.10.4"
@@ -1557,8 +2032,8 @@
       },
       "Assemblies": [
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities\\1.10.4\\lib\\net461\\UiPath.Mail.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.mail.activities\\1.10.4"
@@ -1627,12 +2102,12 @@
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.CV.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.CV.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.UIAutomation.Activities.Package.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.UIAutomationCore.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\lib\\net461\\UiPath.Wizards.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3"
@@ -1645,10 +2120,10 @@
       "Assemblies": [
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Core.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\lib\\net461\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1"
     }

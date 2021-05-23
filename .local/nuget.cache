@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "dytWAtrtBt9u7P1hDbdqDVWjFtgyErE8E8OpyD4J95UW3/RIfzDqOV1gtrQ2gU6U53xIuq14WT9/86XWIQWbhw==",
+  "dgSpecHash": "SsM34ZljmyCB6YqZplO0bCnSnv2irB3AmwXTE2hUiAGjxgTwvFzpVjGkzM0+RGn0+5HmooU3uzSWnbj0zdz6+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\VIJAY\\Documents\\UiPath\\Test_DevOps\\.local\\",
   "expectedPackageFiles": [
+    "C:\\Users\\VIJAY\\.nuget\\packages\\azuredevops.activities\\1.0.0\\azuredevops.activities.1.0.0.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\ben.demystifier\\0.1.2\\ben.demystifier.0.1.2.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\documentformat.openxml\\2.5.0\\documentformat.openxml.2.5.0.nupkg.sha512",
@@ -15,6 +17,7 @@
     "C:\\Users\\VIJAY\\.nuget\\packages\\google.apis.peopleservice.v1\\1.43.0.1876\\google.apis.peopleservice.v1.1.43.0.1876.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\mailkit\\2.10.0\\mailkit.2.10.0.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.0\\microsoft.aspnet.signalr.client.2.4.0.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.3\\microsoft.aspnet.webapi.client.5.2.3.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.6\\microsoft.aspnetcore.connections.abstractions.3.1.6.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.6\\microsoft.aspnetcore.http.connections.client.3.1.6.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.6\\microsoft.aspnetcore.http.connections.common.3.1.6.nupkg.sha512",
@@ -37,21 +40,35 @@
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identity.client\\4.14.0\\microsoft.identity.client.4.14.0.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.19.4\\microsoft.identitymodel.clients.activedirectory.3.19.4.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.2.4\\microsoft.identitymodel.jsonwebtokens.5.2.4.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.logging\\5.2.4\\microsoft.identitymodel.logging.5.2.4.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.2.4\\microsoft.identitymodel.tokens.5.2.4.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common\\15.112.1\\microsoft.teamfoundation.distributedtask.common.15.112.1.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundation.distributedtask.common.contracts\\16.144.1-preview\\microsoft.teamfoundation.distributedtask.common.contracts.16.144.1-preview.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.teamfoundationserver.client\\16.144.1-preview\\microsoft.teamfoundationserver.client.16.144.1-preview.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.tpl.dataflow\\4.5.24\\microsoft.tpl.dataflow.4.5.24.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\microsoft.visualstudio.ole.interop.16.7.30328.74.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.client\\16.153.0\\microsoft.visualstudio.services.client.16.153.0.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.distributedtask.client\\15.112.1-preview\\microsoft.visualstudio.services.distributedtask.client.15.112.1-preview.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\microsoft.visualstudio.services.interactiveclient\\16.153.0\\microsoft.visualstudio.services.interactiveclient.16.153.0.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\mimekit\\2.10.0\\mimekit.2.10.0.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\npoi\\2.4.1\\npoi.2.4.1.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\system.collections.immutable\\1.4.0\\system.collections.immutable.1.4.0.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.2.4\\system.identitymodel.tokens.jwt.5.2.4.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.io.abstractions\\3.0.10\\system.io.abstractions.3.0.10.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.management.automation\\6.1.7601.17515\\system.management.automation.6.1.7601.17515.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\VIJAY\\.nuget\\packages\\system.reflection.metadata\\1.5.0\\system.reflection.metadata.1.5.0.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
@@ -70,5 +87,54 @@
     "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.uiautomation.activities\\21.4.3\\uipath.uiautomation.activities.21.4.3.nupkg.sha512",
     "C:\\Users\\VIJAY\\.nuget\\packages\\uipath.vision\\3.0.1\\uipath.vision.3.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\VIJAY\\Documents\\UiPath\\Test_DevOps\\.local",
+      "message": "Detected package version outside of dependency constraint: Microsoft.TeamFoundationServer.Client 16.144.1-preview requires Microsoft.VisualStudio.Services.Client (= 16.144.1-preview) but version Microsoft.VisualStudio.Services.Client 16.153.0 was resolved.",
+      "libraryId": "Microsoft.VisualStudio.Services.Client",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\VIJAY\\Documents\\UiPath\\Test_DevOps\\.local",
+      "message": "Detected package version outside of dependency constraint: Microsoft.VisualStudio.Services.DistributedTask.Client 15.112.1-preview requires Microsoft.VisualStudio.Services.Client (= 15.112.1) but version Microsoft.VisualStudio.Services.Client 16.153.0 was resolved.",
+      "libraryId": "Microsoft.VisualStudio.Services.Client",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\VIJAY\\Documents\\UiPath\\Test_DevOps\\.local",
+      "message": "Detected package version outside of dependency constraint: Microsoft.TeamFoundation.DistributedTask.Common.Contracts 16.144.1-preview requires Microsoft.VisualStudio.Services.Client (= 16.144.1-preview) but version Microsoft.VisualStudio.Services.Client 16.153.0 was resolved.",
+      "libraryId": "Microsoft.VisualStudio.Services.Client",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win7-x86"
+      ]
+    },
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\VIJAY\\Documents\\UiPath\\Test_DevOps\\.local",
+      "message": "Detected package version outside of dependency constraint: Microsoft.TeamFoundation.DistributedTask.Common 15.112.1 requires Microsoft.VisualStudio.Services.Client (= 15.112.1) but version Microsoft.VisualStudio.Services.Client 16.153.0 was resolved.",
+      "libraryId": "Microsoft.VisualStudio.Services.Client",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1",
+        ".NETFramework,Version=v4.6.1/win7-x86"
+      ]
+    }
+  ]
 }
